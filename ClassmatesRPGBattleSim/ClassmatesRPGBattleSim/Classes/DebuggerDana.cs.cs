@@ -1,5 +1,3 @@
-﻿// In a file named DebuggerDana.cs inside the 'Classes' folder
-
 using System;
 
 namespace ClassmatesRPGBattleSim.Classes
