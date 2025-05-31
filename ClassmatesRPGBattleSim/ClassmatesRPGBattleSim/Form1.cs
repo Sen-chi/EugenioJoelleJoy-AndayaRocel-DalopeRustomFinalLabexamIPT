@@ -8,9 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-// *** IMPORTANT: Add this using directive if your character classes are in a 'Classes' folder/namespace ***
-// If your classes are directly in the ClassmatesRPGBattleSim namespace, you might not need this specific line,
-// but it's good practice to organize into namespaces.
+
 using ClassmatesRPGBattleSim.Classes;
 
 
@@ -59,7 +57,7 @@ namespace ClassmatesRPGBattleSim
         /// </summary>
         private void btnStartBattle_Click(object sender, EventArgs e)
         {
-            // --- EXCEPTION HANDLING (Step 5) ---
+          
             try
             {
                 // Validate user input: Check if names are entered and character types are selected
