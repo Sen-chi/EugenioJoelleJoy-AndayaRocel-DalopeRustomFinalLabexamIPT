@@ -1,0 +1,10 @@
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.csproj.AssemblyReference.cache
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.Form1.resources
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.Properties.Resources.resources
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.csproj.GenerateResource.cache
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\bin\Debug\ClassmatesRPGBattleSim.exe.config
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\bin\Debug\ClassmatesRPGBattleSim.exe
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\bin\Debug\ClassmatesRPGBattleSim.pdb
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.exe
+C:\Users\DellUser\Source\Repos\ClassmatesRPGBattleSim\ClassmatesRPGBattleSim\obj\Debug\ClassmatesRPGBattleSim.pdb
